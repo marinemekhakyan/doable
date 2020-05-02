@@ -1,6 +1,6 @@
 # doable
 
-##### Just another to-do app built with
+### Just another to-do app built with
 * Vanilla JS
 * Local Storage
 * Materialize library
